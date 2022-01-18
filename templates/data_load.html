@@ -1,0 +1,65 @@
+{% extends'base.html'%}
+{% block head %}
+{% endblock %}
+{% block body %}
+    <br>
+    <br>
+    <main>
+        <div class="container-fluid">
+            <h1 class="mt-4">Data Load</h1>
+            <div class="select_source">
+                <form action="load_data" method="POST" enctype="multipart/form-data">
+                    <label for="source" id="label1"><b>Choose a data source:</b></label>
+                    <select name="source" id="source_data" class="form-control" onchange="process_input(this)">
+                        <option value="" selected>Select File Type</option>
+                        <option value="xlsx" >Excel file</option>
+                        <option value="csv">CSV file</option>
+                        <option value="html">HTML file </option>
+                        <option value="json">JSON file</option>
+                        <option value="txt">Text file</option>
+                        <option value="DB">DB connection</option>
+                    </select>
+                    <br>
+                    <label for="db_type" id="label_db"><b>Choose a data base type:</b></label>
+                    <select name="source_db" id="source_data_db" class="form-control" onchange="process_input(this)">
+                        <option value="" selected>Select Option</option>
+                        <option value="mongo_db">Mongodb file</option>
+                        <option value="mysql">Mysql file</option>
+
+                    </select>
+                    <br>
+                    <div id="db_content">
+                        Root:<br>
+                        <input type="text" name="content">
+                        <br>
+                        Password:<br>
+                        <input type="password" name="content1">
+                        <br>
+                        Database:<br>
+                        <input type="text" name="content2">
+                        <br>
+                        Table:<br>
+                        <input type="text" name="content3">
+                        <br><br>
+                    </div>
+                    <div class="Db_conncetion" id="Db_conncetion">
+                        for DB connection press here:
+                        <button type="submit" class="btn">Connect</button>
+                    </div>
+                    <br>
+                    <div class="select-delimeter" id="delimeter">
+                        <input type="text" placeholder="File Delimiter" name="delimiter"/>
+                    </div>
+                    <br>
+                    <div class="upload_file" id="upload_file">
+                        <label id="label2"><b>Select File: </b></label>
+                        <input type="file" id="myFile" name="filename" onchange="verifyFile(this)">
+                        <button type="submit" class="btn btn-dark" id="loadFile0" onclick="loadFile()">Upload</button>
+                    </div>
+                    <div id="Error_1">{{message}}</div>
+                </form>
+                <div id="Error_1">{{message}}</div>
+            </div>
+        </div>
+    </main>
+{% endblock body%}

@@ -1,0 +1,5 @@
+2022-01-18/02:01:56		Exception occurred in creating Selected Coloum Dataframe. Exception message: name 'wordlist' is not defined
+2022-01-18/02:05:55		Exception occurred in creating Selected Coloum Dataframe. Exception message: name 'wordlist' is not defined
+2022-01-18/02:08:58		Exception occurred in creating Selected Coloum Dataframe. Exception message: name 'wordlist' is not defined
+2022-01-18/02:20:48		Exception occurred in creating Selected Coloum Dataframe. Exception message: name 'wordlist' is not defined
+2022-01-18/02:23:38		Exception occurred in creating Selected Coloum Dataframe. Exception message: name 'wordlist' is not defined

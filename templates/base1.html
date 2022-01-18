@@ -1,0 +1,80 @@
+{% extends 'base.html' %}
+{% block head %}
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.1/css/bootstrap-select.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.1/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.1/js/bootstrap-select.min.js"></script>
+{% endblock head %}
+{% block body %}
+
+<div class="container-fluid">
+    <h1 class="mt-4">Extracted Content</h1>
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item"><a href="/">Category Post</a></li>
+        <li class="breadcrumb-item active">Tables</li>
+    </ol>
+    <div class="card mb-4">
+        <div class="card-header">
+            <i class="fas fa-table mr-1"></i>
+            Table
+        </div>
+        <div class="card-body">
+            <div class="table-responsive">
+                <table class="table table-bordered" id="dataTable1" width="100%" cellspacing="0">
+                    <thead>
+                    </thead>
+                    <tbody>
+                    <tr>
+                        {% for table in tables %}
+                            {{ table|safe }}
+                        {% endfor %}
+                    </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid">
+    <h2 class="mt-4">Download</h2>
+    <div class="select_source">
+        <form method="POST" enctype="multipart/form-data">
+            <label for="source" id="label1"><b>Choose a data source:</b></label>
+            <select name="source" id="source_data" class="form-control">
+                <option value="" selected>Select File Type</option>
+                <option value="xlsx" >Excel file</option>
+                <option value="csv">CSV file</option>
+                <option value="html">HTML file </option>
+                <option value="json">JSON file</option>
+                <option value="txt">Text file</option>
+            </select>
+            <br>
+            <div class="container-fluid">
+                <a href="/download/{{value}}" target="blank"><button class='btn btn-primary'>Download</button></a>
+            </div>
+        </form>
+    </div>
+</div>
+<br>
+<br>
+<div class="container-fluid">
+    <h1 class="mt-4">Create Matrix on the Occurrence of Entity</h1>
+    <ol class="breadcrumb mb-4">
+        <li class="breadcrumb-item"><a href="/">Category Post</a></li>
+        <li class="breadcrumb-item active">Select Columns Name</li>
+    </ol>
+    <form action="load_data" method="POST" enctype="multipart/form-data">
+        <label for="source" id="label1"><b>Choose attribute name</b></label>
+        <select name="source" id="selected_data" class="selectpicker" multiple data-live-search="true">
+            <option value="" selected>Select File Type</option>
+            {% for col in columns %}
+                <option value={{ col }}>{{ col }}</option>
+            {% endfor %}
+        </select>
+        <div class="container-fluid">
+            <a href="/count_entity_dataset" target="blank"><button class='btn btn-primary'>Submit</button></a>
+        </div>
+    </form>
+</div>
+{% endblock body %}

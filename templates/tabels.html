@@ -1,0 +1,193 @@
+{% extends'base.html'%}
+{% block head %}
+{% endblock %}
+{% block body %}
+<main>
+    <div class="container-fluid">
+        <h1 class="mt-4">Tables</h1>
+        <ol class="breadcrumb mb-4">
+            <li class="breadcrumb-item"><a href="/">Dashboard</a></li>
+            <li class="breadcrumb-item active">Tables</li>
+        </ol>
+        <div class="select_problem">
+            <form action="/entity_finder" method="POST" enctype="multipart/form-data">
+                <div class="card mb-4">
+                    <div class="card-header">
+                        <i class="fas fa-table mr-1"></i>
+                            Enter Key Words
+                    </div>
+                    <div class="d-flex flex-column flex-md-row">
+                        <div class="col">
+                            <label for="problem_type" id="prob_typ"><b>Choose a Problem Type:</b></label>
+                            <div class="input-group mb-3">
+                                <select name="problem_type" id="problem_type" class="form-control">
+                                    <option value="Multiple Entity">Multiple Entity</option>
+                                    <option value="Single Entity">Single Entity</option>
+                                </select>
+                            </div>
+                            <label for="target_column" id="trgt_col"><b>Select Post Column:</b></label>
+                            <div class="input-group mb-3">
+                                <select name="target_column" id="target_column" class="form-control">
+                                    {% for col in columns %}
+                                        <option value={{ col }}>{{ col }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                            <label for="Select_Matrix" id="test"><b>Select Matrix:</b></label>
+                            <div class="input-group mb-3">
+                                <select multiple name="Select_Matrix" id="Select_Matrix" class="form-control" >
+                                    {% for col in columns %}
+                                        <option value={{ col }}>{{ col }}</option>
+                                    {% endfor %}
+                                </select>
+                            </div>
+                              <div class="form-group">
+                                <label for="keywords">Enter Keywords separated by comma</label>
+                                <textarea class="form-control" name = "keywords" id="keywords" rows="3"></textarea>
+                              </div>
+                                <div class="Db_conncetion" id="Db_conncetion">
+                                    <button type="submit" class="btn btn-dark">Submit</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                <br>
+                <br>
+            </form>
+        </div>
+        <br>
+        <br>
+        <div class="card mb-4">
+            <div class="card-header">
+                <i class="fas fa-table mr-1"></i>
+                Data Table
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-bordered" id="dataTable1" width="100%" cellspacing="0">
+                        <thead>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                {% for table in tables %}
+                                    {{ table|safe }}
+                                {% endfor %}
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+
+        <div class="card mb-4">
+            <div class="card-header">
+                <i class="fas fa-table mr-1"></i>
+                Data Profile
+            </div>
+        </div>
+        <div class="card-mb-4">
+            <div class="card-header">
+                <i class="fas fa-table mr-1"></i>
+                Dataset details
+            </div>
+            <div class="table-wrapper-scroll-y my-custom-scrollbar">
+                <table class="table table-bordered table-striped mb-0" id="dataTable2" width="100%"
+                       cellspacing="20">
+
+                        <th>Number of Rows</th>
+                        <th>Number of Columns</th>
+
+                    <tr>
+                        <td>{{ profile['rows'] }}</td>
+                        <td>{{ profile['columns'] }}</td>
+                    </tr>
+                    </table>
+                    <br>
+                    <br>
+                    <table class="table table-bordered table-striped mb-0"  width="100%"
+                           cellspacing="20">
+                        <col width="50">
+                        <col width="100">
+                        <tr>
+                            <th>Number of Duplicate Rows</th>
+                            <th>Data Size</th>
+                        </tr>
+                        <tr>
+                            <td>{{ profile['num_duplicate_rows'] }}</td>
+                            <td>{{ profile['datasize'] }}</td>
+                        </tr>
+                    </table>
+
+            </div>
+        </div>
+        <br>
+        <div class="card-mb-4">
+            <div class="card-header">
+                <i class="fas fa-table mr-1"></i>
+                Column Wise Missing Values
+            </div>
+            <div class="table-wrapper-scroll-y my-custom-scrollbar">
+                <table class="table table-bordered table-striped mb-0">
+                    <th>Column Name</th>
+                    <th>Missing Values</th>
+                    <th>Missing Value Percent</th>
+                    {% for key in profile['missing_values'].keys() %}
+                        <tr>
+                            <td>{{ key }}</td>
+                            <td>{{ profile['missing_values'][key] }}</td>
+                            <td>{{ profile['missing_vals_pct'][key] }}</td>
+                        </tr>
+                    {% endfor %}
+                </table>
+            </div>
+        </div>
+        <br>
+        <div class="card-mb-4">
+            <div class="card-header">
+                 <i class="fas fa-table mr-1"></i>
+                Categorical Column report
+            </div>
+            <div class="table-wrapper-scroll-y ">
+                <table class="table table-bordered table-striped mb-0" id="dataTable4" width="100%"
+                       cellspacing="20">
+                    <tr>
+                        <th>Number of Columns</th>
+                        <th>Categorical Columns</th>
+                    </tr>
+                    <tr>
+                        <td>{{ (profile['num_categorical_columns']) }}</td>
+                        <td>{{ profile['categorical_columns'] }}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+        <br>
+        <div class="card-mb-4">
+            <div class="card-header">
+                <i class="fas fa-table mr-1"></i>
+                Numerical Column report
+            </div>
+            <div class="table-wrapper-scroll-y ">
+                <table class="table table-bordered table-striped mb-0" id="dataTable5" width="100%"
+                       cellspacing="20">
+                    <tr>
+                        <th>Number of Columns</th>
+                        <th>Numerical Columns</th>
+                    </tr>
+                    <tr>
+                        <td>{{ (profile['num_numerical_columns']) }}</td>
+                        <td>{{ profile['numerical_columns'] }}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+       <br>
+    </div>
+</main>
+<br>
+<br>
+<script src="{{ url_for('static', filename='js/loadData.js') }}"></script>
+<script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js" crossorigin="anonymous"></script>
+<script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js" crossorigin="anonymous"></script>
+<script src="../static/js/datatables-demo.js"></script>
+{% endblock body%}

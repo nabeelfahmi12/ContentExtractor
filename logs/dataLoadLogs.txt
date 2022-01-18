@@ -1,0 +1,423 @@
+2021-01-22/16:00:46		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/16:00:46		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+2021-01-22/16:00:46		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/16:04:30		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/16:04:30		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Missing optional dependency 'xlrd'. Install xlrd >= 1.0.0 for Excel support Use pip or conda to install xlrd.
+2021-01-22/16:04:30		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/16:10:00		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/16:10:00		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Excel xlsx file; not supported
+2021-01-22/16:10:00		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/17:59:34		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/17:59:34		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/18:00:18		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/18:00:18		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/18:02:56		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/18:02:56		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/18:04:49		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/18:04:49		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:09:00		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:09:00		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:10:52		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:10:52		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:13:41		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:13:41		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:15:54		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:15:54		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:16:35		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:16:35		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:17:31		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:17:31		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:20:20		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:20:20		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:21:04		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:21:04		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:21:34		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:21:34		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:23:11		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:23:11		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:23:29		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/20:23:29		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/21:53:05		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/21:53:05		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:08:19		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:08:19		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:12:45		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:12:45		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:13:52		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:13:52		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:14:17		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:14:17		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:14:49		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:14:49		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:16:01		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:16:01		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:16:56		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:16:56		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:17:48		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:17:48		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:18:04		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:18:04		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:20:43		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:20:43		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:22:11		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:22:11		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:24:42		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:24:42		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:25:07		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:25:07		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:25:41		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-22/22:25:41		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:41:20		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:41:20		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:43:46		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:43:46		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:45:11		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:45:11		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:45:44		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:45:44		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:46:05		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:46:05		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:47:43		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:47:43		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:47:53		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-23/19:47:53		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-25/10:47:16		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-25/10:47:16		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-27/16:24:30		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-27/16:24:30		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:23:20		Entered the get_data method of the Data_Getter class
+2021-01-29/11:23:20		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:23:20		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:23:20		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/11:23:58		Entered the get_data method of the Data_Getter class
+2021-01-29/11:23:58		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:23:58		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:23:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/11:25:51		Entered the get_data method of the Data_Getter class
+2021-01-29/11:25:51		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:25:51		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:25:51		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/11:30:46		Entered the get_data method of the Data_Getter class
+2021-01-29/11:30:46		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:30:46		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:30:46		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/11:32:30		Entered the get_data method of the Data_Getter class
+2021-01-29/11:32:30		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:32:30		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:32:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/11:39:33		Entered the get_data method of the Data_Getter class
+2021-01-29/11:39:33		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:39:33		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:39:33		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/11:43:34		Entered the get_data method of the Data_Getter class
+2021-01-29/11:43:34		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:43:34		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:43:34		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/11:47:35		Entered the get_data method of the Data_Getter class
+2021-01-29/11:47:35		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:47:35		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:47:35		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/11:52:33		Entered the get_data method of the Data_Getter class
+2021-01-29/11:52:33		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:52:33		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:52:33		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/11:53:30		Entered the get_data method of the Data_Getter class
+2021-01-29/11:53:30		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:53:30		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:53:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/11:54:16		Entered the get_data method of the Data_Getter class
+2021-01-29/11:54:16		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:54:16		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:54:16		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/11:57:41		Entered the get_data method of the Data_Getter class
+2021-01-29/11:57:41		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:57:41		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:57:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/11:59:23		Entered the get_data method of the Data_Getter class
+2021-01-29/11:59:23		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:59:23		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/11:59:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:00:48		Entered the get_data method of the Data_Getter class
+2021-01-29/12:00:48		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:00:48		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:00:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:01:19		Entered the get_data method of the Data_Getter class
+2021-01-29/12:01:19		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:01:19		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:01:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:04:47		Entered the get_data method of the Data_Getter class
+2021-01-29/12:04:47		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:04:47		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:04:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:15:07		Entered the get_data method of the Data_Getter class
+2021-01-29/12:15:07		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:15:07		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:15:07		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:19:23		Entered the get_data method of the Data_Getter class
+2021-01-29/12:19:23		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:19:23		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:19:23		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:26:00		Entered the get_data method of the Data_Getter class
+2021-01-29/12:26:00		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:26:00		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:26:00		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:39:03		Entered the get_data method of the Data_Getter class
+2021-01-29/12:39:03		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:39:03		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:39:03		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:40:18		Entered the get_data method of the Data_Getter class
+2021-01-29/12:40:18		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:40:18		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:40:18		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:43:55		Entered the get_data method of the Data_Getter class
+2021-01-29/12:43:55		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:43:55		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:43:55		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:48:59		Entered the get_data method of the Data_Getter class
+2021-01-29/12:48:59		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:48:59		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:48:59		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:49:48		Entered the get_data method of the Data_Getter class
+2021-01-29/12:49:48		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:49:48		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:49:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:50:43		Entered the get_data method of the Data_Getter class
+2021-01-29/12:50:43		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:50:43		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:50:43		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:51:31		Entered the get_data method of the Data_Getter class
+2021-01-29/12:51:31		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:51:31		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:51:31		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:53:47		Entered the get_data method of the Data_Getter class
+2021-01-29/12:53:47		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:53:47		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:53:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:55:57		Entered the get_data method of the Data_Getter class
+2021-01-29/12:55:57		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:55:57		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:55:57		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/12:56:26		Entered the get_data method of the Data_Getter class
+2021-01-29/12:56:26		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:56:26		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/12:56:26		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-29/20:06:13		Entered the get_data method of the Data_Getter class
+2021-01-29/20:06:13		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-29/20:06:13		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-29/20:06:13		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-30/10:26:26		Entered the get_data method of the Data_Getter class
+2021-01-30/10:26:26		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-30/10:26:26		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-30/10:26:26		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-30/10:30:19		Entered the get_data method of the Data_Getter class
+2021-01-30/10:30:19		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-30/10:30:19		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-30/10:30:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-30/10:33:24		Entered the get_data method of the Data_Getter class
+2021-01-30/10:33:24		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-30/10:33:24		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-30/10:33:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-30/10:37:58		Entered the get_data method of the Data_Getter class
+2021-01-30/10:37:58		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-30/10:37:58		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-30/10:37:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-30/11:19:38		Entered the get_data method of the Data_Getter class
+2021-01-30/11:19:38		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-30/11:19:38		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-30/11:19:38		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-30/12:09:02		Entered the get_data method of the Data_Getter class
+2021-01-30/12:09:02		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:09:02		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:09:02		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-30/12:16:48		Entered the get_data method of the Data_Getter class
+2021-01-30/12:16:48		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:16:48		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:16:48		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-30/12:25:22		Entered the get_data method of the Data_Getter class
+2021-01-30/12:25:22		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:25:22		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:25:22		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-30/12:33:58		Entered the get_data method of the Data_Getter class
+2021-01-30/12:33:58		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:33:58		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:33:58		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-30/12:42:20		Entered the get_data method of the Data_Getter class
+2021-01-30/12:42:20		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:42:20		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:42:20		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-30/12:47:19		Entered the get_data method of the Data_Getter class
+2021-01-30/12:47:19		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:47:19		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:47:19		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-30/12:49:30		Entered the get_data method of the Data_Getter class
+2021-01-30/12:49:30		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:49:30		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-30/12:49:30		Data Load Successful.Exited the get_data method of the Data_Getter class
+2021-01-30/13:03:28		Entered the get_data method of the Data_Getter class
+2021-01-30/13:03:28		Entered the read_data_from_excel method of the Data_Getter class
+2021-01-30/13:03:28		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2021-01-30/13:03:28		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:05:07		Entered the get_data method of the Data_Getter class
+2022-01-17/17:05:07		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:05:07		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2022-01-17/17:05:07		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:05:07		Exception occured in get_data method of the Data_Getter class. Exception message: 
+2022-01-17/17:05:07		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:05:31		Entered the get_data method of the Data_Getter class
+2022-01-17/17:05:31		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:05:31		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2022-01-17/17:05:31		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:05:31		Exception occured in get_data method of the Data_Getter class. Exception message: 
+2022-01-17/17:05:31		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:07:09		Entered the get_data method of the Data_Getter class
+2022-01-17/17:07:09		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:07:09		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2022-01-17/17:07:09		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:07:09		Exception occured in get_data method of the Data_Getter class. Exception message: 
+2022-01-17/17:07:09		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:09:29		Entered the get_data method of the Data_Getter class
+2022-01-17/17:09:29		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:09:29		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2022-01-17/17:09:29		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:09:29		Exception occured in get_data method of the Data_Getter class. Exception message: 
+2022-01-17/17:09:29		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:19:18		Entered the get_data method of the Data_Getter class
+2022-01-17/17:19:18		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:19:18		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2022-01-17/17:19:18		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:19:18		Exception occured in get_data method of the Data_Getter class. Exception message: 
+2022-01-17/17:19:18		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:19:40		Entered the get_data method of the Data_Getter class
+2022-01-17/17:19:40		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:19:40		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2022-01-17/17:19:40		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:19:40		Exception occured in get_data method of the Data_Getter class. Exception message: 
+2022-01-17/17:19:40		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:19:54		Entered the get_data method of the Data_Getter class
+2022-01-17/17:19:54		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:19:54		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2022-01-17/17:19:54		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:19:54		Exception occured in get_data method of the Data_Getter class. Exception message: 
+2022-01-17/17:19:54		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:22:19		Entered the get_data method of the Data_Getter class
+2022-01-17/17:22:19		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:22:19		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2022-01-17/17:22:19		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:22:19		Exception occured in get_data method of the Data_Getter class. Exception message: 
+2022-01-17/17:22:19		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:22:23		Entered the get_data method of the Data_Getter class
+2022-01-17/17:22:23		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:22:23		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Excel file format cannot be determined, you must specify an engine manually.
+2022-01-17/17:22:23		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:22:23		Exception occured in get_data method of the Data_Getter class. Exception message: 
+2022-01-17/17:22:23		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:22:27		Entered the get_data method of the Data_Getter class
+2022-01-17/17:22:27		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:22:27		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Excel file format cannot be determined, you must specify an engine manually.
+2022-01-17/17:22:27		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:22:27		Exception occured in get_data method of the Data_Getter class. Exception message: 
+2022-01-17/17:22:27		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:23:30		Entered the get_data method of the Data_Getter class
+2022-01-17/17:23:30		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:23:30		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2022-01-17/17:23:30		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:23:30		Exception occured in get_data method of the Data_Getter class. Exception message: 
+2022-01-17/17:23:30		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:29:32		Entered the get_data method of the Data_Getter class
+2022-01-17/17:29:32		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:29:32		Exception occured in read_data_from_excel method of the Data_Getter class. Exception message: Missing optional dependency 'openpyxl'.  Use pip or conda to install openpyxl.
+2022-01-17/17:29:32		Data Load Unsuccessful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:29:32		Exception occured in get_data method of the Data_Getter class. Exception message: 
+2022-01-17/17:29:32		Data Load Unsuccessful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:33:41		Entered the get_data method of the Data_Getter class
+2022-01-17/17:33:41		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:33:41		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:33:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-17/17:43:52		Entered the get_data method of the Data_Getter class
+2022-01-17/17:43:52		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:43:52		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/17:43:52		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-17/18:06:22		Entered the get_data method of the Data_Getter class
+2022-01-17/18:06:22		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/18:06:22		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/18:06:22		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-17/18:11:00		Entered the get_data method of the Data_Getter class
+2022-01-17/18:11:00		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-17/18:11:00		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-17/18:11:00		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/00:21:03		Entered the get_data method of the Data_Getter class
+2022-01-18/00:21:03		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/00:21:03		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/00:21:03		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/00:30:24		Entered the get_data method of the Data_Getter class
+2022-01-18/00:30:24		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/00:30:24		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/00:30:24		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/00:31:33		Entered the get_data method of the Data_Getter class
+2022-01-18/00:31:33		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/00:31:33		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/00:31:33		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/01:32:20		Entered the get_data method of the Data_Getter class
+2022-01-18/01:32:20		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/01:32:20		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/01:32:20		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/02:00:56		Entered the get_data method of the Data_Getter class
+2022-01-18/02:00:56		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/02:00:56		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/02:00:56		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/02:03:56		Entered the get_data method of the Data_Getter class
+2022-01-18/02:03:56		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/02:03:56		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/02:03:56		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/02:08:05		Entered the get_data method of the Data_Getter class
+2022-01-18/02:08:05		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/02:08:05		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/02:08:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/02:19:47		Entered the get_data method of the Data_Getter class
+2022-01-18/02:19:47		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/02:19:47		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/02:19:47		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/02:22:57		Entered the get_data method of the Data_Getter class
+2022-01-18/02:22:57		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/02:22:57		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/02:22:57		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/02:25:06		Entered the get_data method of the Data_Getter class
+2022-01-18/02:25:06		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/02:25:06		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/02:25:06		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/03:00:41		Entered the get_data method of the Data_Getter class
+2022-01-18/03:00:41		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/03:00:41		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/03:00:41		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/03:06:49		Entered the get_data method of the Data_Getter class
+2022-01-18/03:06:49		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/03:06:49		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/03:06:49		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/03:16:50		Entered the get_data method of the Data_Getter class
+2022-01-18/03:16:50		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/03:16:50		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/03:16:50		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/03:24:43		Entered the get_data method of the Data_Getter class
+2022-01-18/03:24:43		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/03:24:43		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/03:24:43		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/03:51:22		Entered the get_data method of the Data_Getter class
+2022-01-18/03:51:22		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/03:51:22		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/03:51:22		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/09:43:39		Entered the get_data method of the Data_Getter class
+2022-01-18/09:43:39		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/09:43:39		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/09:43:39		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/09:48:44		Entered the get_data method of the Data_Getter class
+2022-01-18/09:48:44		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/09:48:44		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/09:48:44		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/09:53:05		Entered the get_data method of the Data_Getter class
+2022-01-18/09:53:05		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/09:53:05		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/09:53:05		Data Load Successful.Exited the get_data method of the Data_Getter class
+2022-01-18/09:59:23		Entered the get_data method of the Data_Getter class
+2022-01-18/09:59:23		Entered the read_data_from_excel method of the Data_Getter class
+2022-01-18/09:59:23		Data Load Successful.Exited the read_data_from_excel method of the Data_Getter class
+2022-01-18/09:59:23		Data Load Successful.Exited the get_data method of the Data_Getter class

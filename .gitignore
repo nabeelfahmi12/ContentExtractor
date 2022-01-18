@@ -1,0 +1,7 @@
+logs/
+.idea/
+*.idea
+*.csv
+*.txt
+*.sav
+*.xml
